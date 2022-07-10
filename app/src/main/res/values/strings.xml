@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Document Provider Example</string>
+    <string name="document_provider_title">Document Provider Example</string>
+</resources>
